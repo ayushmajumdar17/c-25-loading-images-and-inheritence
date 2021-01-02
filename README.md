@@ -1,2 +1,2 @@
-# c-25-loading-images-and-inheritence
-i added images to my program and learned about the parentclass
+# p5.play-boilerplate
+Boiler plate for p5.play
